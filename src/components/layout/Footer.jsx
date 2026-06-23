@@ -78,7 +78,7 @@ export default function Footer() {
       </div>
       <div className="footer-bottom">
         <div className="footer-bottom-inner">
-          <span>© 2025 Eagle Star Enterprises. All rights reserved.</span>
+          <span>Eagle Star Enterprises. All rights reserved.</span>
           <div className="footer-links">
             <Link to="/contact">Privacy Policy</Link>
             <Link to="/contact">Terms of Use</Link>
